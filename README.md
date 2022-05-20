@@ -3,7 +3,7 @@
 This is a tiny and handy form to authenticate user<br>
 
 To access this app you can visit this link : <br><br>
-https://funny-food-order.netlify.app/
+https://loginformauthentication.netlify.app/
 
 ## Framework -> React.js
 
